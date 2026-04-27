@@ -1,4 +1,4 @@
-Random Quote Generator — эт# Weather Diary (Дневник погоды)
+# Weather Diary (Дневник погоды)
 
 **Автор:** Курбанов Тимур
 
